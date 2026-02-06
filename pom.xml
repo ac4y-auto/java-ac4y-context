@@ -42,12 +42,12 @@
         <dependency>
             <groupId>ac4y</groupId>
             <artifactId>ac4y-base</artifactId>
-            <version>1.0.0</version>
+            <version>1.0.20260206.1</version>
         </dependency>
         <dependency>
             <groupId>ac4y</groupId>
             <artifactId>ac4y-database</artifactId>
-            <version>1.0.0</version>
+            <version>1.0.20260206.1</version>
         </dependency>
         <dependency>
             <groupId>junit</groupId>
