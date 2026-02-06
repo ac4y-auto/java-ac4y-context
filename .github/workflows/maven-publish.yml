@@ -11,6 +11,7 @@ jobs:
     permissions:
       contents: read
       packages: write
+      repository-projects: write
 
     steps:
       - name: Checkout code
