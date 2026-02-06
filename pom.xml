@@ -6,7 +6,7 @@
 
     <groupId>ac4y</groupId>
     <artifactId>ac4y-context</artifactId>
-    <version>1.0.20260206.3</version>
+    <version>1.0.20260206.4</version>
     <packaging>jar</packaging>
 
     <name>java-ac4y-context</name>
